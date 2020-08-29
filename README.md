@@ -1,6 +1,7 @@
 # Add Store to Windows 10 Enterprise LTSC  
 For Windows 10 Enterprise LTSC 2019   
 [Download](https://github.com/lixuy/LTSC-Add-MicrosoftStore/archive/2019.zip)  
+## [New GUI Installer by QuestYouCraft [Beta]](https://github.com/QuestYouCraft/Microsoft-Store-Installer)
 ## To install, run Add-Store.cmd as Administrator  
 If you do not want App Installer / Purchase App / Xbox identity, delete each one appxbundle before running to install. However, if you plan on installing games or any app with in-purchase options, you should include everything.  
 If the store still will not function, reboot. If still not working, open the command prompt as the administrator and run the following command, then reboot once more.  
